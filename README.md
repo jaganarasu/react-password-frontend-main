@@ -44,8 +44,8 @@ This project is a full-stack web application for password management, providing 
 
 ## Deployment
 
-- Frontend: Deployed on [Netlify](https://password-reset-guvi-app.netlify.app/)
-- Backend: Deployed on [Render](https://password-reset-guvi.onrender.com)
+- Frontend: Deployed on [Netlify](https://react-password-frontend-main.netlify.app/)
+- Backend: Deployed on [Render](https://password-reset-backend-main-huso.onrender.com/)
 
 ## Installation and Setup
 
@@ -69,3 +69,4 @@ This project is a full-stack web application for password management, providing 
 
 Feel free to contribute to this project by creating a pull request.
 "# react-password-frontend-main" 
+"# urlshotener-frontend" 
